@@ -1,5 +1,5 @@
 ## Pixel-style cursor theme for X11
-![](https://imgur.com/Rs0l1hL)
+![](https://i.imgur.com/Rs0l1hL.gif)
 Once this was a windows theme. All I did was convert that with [cursor-converter](https://github.com/avaunit02/cursor-converter) to X11 format.
 
 ### Installation
