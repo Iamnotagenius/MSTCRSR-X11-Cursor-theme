@@ -5,6 +5,7 @@ Once this was a windows theme. All I did was convert that with [cursor-converter
 
 ### Installation
 Just run `install.sh`. It will use [xcursorgen](https://github.com/freedesktop/xcursorgen) to generate cursors and put them in `~/.local/share/icons/MSTCRSR/cursors`.
+
 With `--set-as-defult` option it will set this theme as default.
 
 ### Configuration
